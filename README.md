@@ -19,7 +19,7 @@ Currently, I'm creating websites for my portfolio & improving my knowledge of JS
 
 ________________________________________
 
-I'm going to enroll in a distant professional retraining program at Moscow State University to become a programmer with a diploma.
+I'm going to enroll in a distant professional retraining program at Moscow State University.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuna0007&layout=compact)](https://github.com/tuna0007)
 
